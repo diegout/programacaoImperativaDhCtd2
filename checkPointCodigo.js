@@ -1,11 +1,17 @@
 
 \\"menu microondas superspeed nhac options"
 
-pipoca = 10;
-macarrao - 8;
-carne = 15;
-feijao - 12;
-brigadeiro = 8;
+
+const pratos = {
+1: { nome: 'pipoca', tempo: 10 },
+2: { nome: 'macarrao', tempo: 8 },
+3: { nome: 'carne', tempo: 15 },
+4: { nome: 'feijao', tempo: 12 },
+5: { nome: 'brigadeiro', tempo: 8 },
+};
+
+function 
+
 
 switch (pipoca) {
      case 10:
