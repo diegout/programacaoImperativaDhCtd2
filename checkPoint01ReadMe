@@ -1,5 +1,6 @@
-1 ͦ  Checkpoint de Programação Imperativa!
-Olá, você foi contratado para executar este projeto. É importante que você analise, entenda o pedido do cliente e desenvolva conforme solicitado. Veja abaixo os requisitos do projeto:
+// 1 ͦ  Checkpoint de Programação Imperativa!
+
+// Olá, você foi contratado para executar este projeto. É importante que você analise, entenda o pedido do cliente e desenvolva conforme solicitado. Veja abaixo os requisitos do projeto:
 
 - Precisamos desenvolver um menu para um microondas super veloz, onde teremos 5 opções de comida com seus respectivos tempos pré-definidos. 
 
@@ -14,3 +15,11 @@ Olá, você foi contratado para executar este projeto. É importante que você a
 - Opções não listadas no menu, devem exibir uma mensagem de erro: "Prato inexistente";
 - Se o tempo for 3x maior que o necessário para o prato, o microondas deve exibir a mensagem: “kabumm”;
 - No final de cada tarefa, o microondas deverá exibir a mensagem: "Prato pronto, bom apetite!!!".
+
+
+
+.
+.
+// https://docs.google.com/forms/d/e/1FAIpQLSeEsIFOHQfwzadc4MFWKznQOrsEP2y2KRHY1vpoo0RU9wn6pw/viewform
+.
+.
